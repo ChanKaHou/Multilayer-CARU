@@ -1,4 +1,4 @@
-﻿﻿'''
+'''
 Python program source code
 for research article "Multilayer CARU Networks for Data Stream Classification"
 Version 1.0
